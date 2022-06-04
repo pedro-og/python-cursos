@@ -2,6 +2,7 @@ import forca
 import adivinhacao
 
 
+
 def escolhe_jogo():
 
 
